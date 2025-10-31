@@ -1,1 +1,10 @@
+Flow of the content:
+  1. Time Complexity
+  2. Big O Notation
+  3. Asymptotic Notation
+  4. Calculating The Complexity
+  5. Master theorem
+  6. Space Complexity
 
+
+1. Time Complexity
